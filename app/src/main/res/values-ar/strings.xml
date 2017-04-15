@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_title">أضافه سهم</string>
+    <string name="dialog_cancel">ألغاء</string>
+    <string name="dialog_add">أضافه</string>
+
+    <string name="error_no_network">لا يوجد اتصال بالشبكة! سيتم تحميل مؤشر الأسهم عندما تكون الشبكة المتاحة.</string>
+    <string name="error_no_stocks">لم يتم إضافة أي أسهم! اضغط على زر + لإضافة سهم.</string>
+
+    <string name="toast_stock_added_no_connectivity">تمت إضافة الرمز٪ s. سيتم التحديث عندما تكون الشبكة متاحة.</string>
+    <string name="toast_no_connectivity">سيتم التحديث عندما تكون الشبكة متاحة.</string>
+    <string name="add_new_stock">اضافه سهم جديد</string>
+    <string name="empty_view_text">لا يوجد اسهم </string>
+    <string name="erroe_stock">سهم غير صحيح</string>
+    <string name="stcks_now">Stocks الان</string>
+
+</resources>
